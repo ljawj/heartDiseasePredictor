@@ -55,7 +55,7 @@ nbconvert==7.6.0
 nbformat==5.8.0
 nest-asyncio==1.5.8
 notebook_shim==0.2.3
-numba==0.58.1
+numba==0.56.4
 numpy==1.26.1
 overrides==7.4.0
 packaging==23.2
